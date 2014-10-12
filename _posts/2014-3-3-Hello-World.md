@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My projects
+url=brownman.github.io
 ---
 
  
